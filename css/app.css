@@ -342,10 +342,6 @@ table.button.success:hover table a {
   line-height: 36px;
   text-align: center; }
 
-p.larger {
-  font-weight: 300;
-  font-size: 20px; }
-
 .demo-copy {
   background: #005587; }
 
@@ -446,7 +442,8 @@ sup {
   background: #005587; }
 
 .intro-cta {
-  font-size: 14px; }
+  font-size: 14px;
+  text-align: right; }
 
 .yellow-bg {
   background: #ffbf3d; }
